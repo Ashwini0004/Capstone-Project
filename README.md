@@ -1,1 +1,1 @@
-# Capstone-Project
+# GitHub Practice
